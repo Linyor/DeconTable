@@ -1,0 +1,10 @@
+Translation by Linyor
+tile.deconstructionTable.name=Table de désassemblage
+container.deconstruction=Désassemblage
+
+button.recipe.next=Prochaine recette
+button.recipe.previous=Précédente recette
+
+update.current=Vous utilisez actuellement la dernière version (@REMOTE_MOD_VERSION@) de @MOD_NAME@ pour @MINECRAFT_VERSION@
+
+update.outdated=Une nouvelle version de @MOD_NAME@ existe (@REMOTE_MOD_VERSION@) pour @MINECRAFT_VERSION@. Téléchargez ici: @MOD_UPDATE_LOCATION@
